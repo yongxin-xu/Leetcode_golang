@@ -8,7 +8,7 @@ Two templates
 
 1. Enumerate numbers for a postition
 ```go
-func dfs(nums []int, used []bool, path []int, cur int ans *[][]int) {
+func dfs(nums []int, used []bool, path []int, cur int, ans *[][]int) {
 	if cur == len(nums) {
 		oneAns := make([]int, len(path))
 		copy(oneAns, path)
