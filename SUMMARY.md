@@ -10,3 +10,5 @@
     * [78 Subsets](Combinations/78_Subsets/src/src_test.go)
     * [90 Subsets II](Combinations/90_Subsets_II/src/src_test.go)
     * [216 Combination Sum III](Combinations/216_Combination_Sum_III/src/src_test.go)
+* [Permutation](Permutations/README.md)
+    * [46 Permutations](Permutations/46_Permutations/src/src_test.go)
