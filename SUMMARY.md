@@ -14,3 +14,6 @@
     * [46 Permutations](Permutations/46_Permutations/src/src_test.go)
     * [47 Permutations II](Permutations/47_Permutations_II/src/src_test.go)
     * [784 Letter Case Permutation](Permutations/784_Letter_Case_Permutation/src/src_test.go)
+* [BinarySearch](BinarySearch/README.md)
+    * [34 Find First and Last Position of Element in Sorted Array](BinarySearch/34/src/src_test.go)
+    * [704 Binary Search](BinarySearch/704_Binary_Search/src/src_test.go)
