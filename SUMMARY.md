@@ -17,3 +17,4 @@
 * [BinarySearch](BinarySearch/README.md)
     * [34 Find First and Last Position of Element in Sorted Array](BinarySearch/34/src/src_test.go)
     * [704 Binary Search](BinarySearch/704_Binary_Search/src/src_test.go)
+    * [852 Peak Index in a Mountain Array](BinarySearch/852/src/src_test.go)
