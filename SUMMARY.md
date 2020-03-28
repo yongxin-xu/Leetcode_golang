@@ -17,6 +17,7 @@
 * [BinarySearch](BinarySearch/README.md)
     * [33 Search in Rotated Sorted Array](BinarySearch/33/src/src_test.go)
     * [34 Find First and Last Position of Element in Sorted Array](BinarySearch/34/src/src_test.go)
+    * [69 Sqrt(x)](BinarySearch/69/src/src_test.go)
     * [81 Search in Rotated Sorted Array II](BinarySearch/81/src/src_test.go)
     * [153 Find Minimum in Rotated Sorted Array](BinarySearch/153/src/src_test.go)
     * [154 Find Minimum in Rotated Sorted Array II](BinarySearch/154/src/src_test.go)
