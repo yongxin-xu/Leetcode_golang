@@ -23,5 +23,6 @@ Some golang implementations of Leetcode problems.
     * [81 Search in Rotated Sorted Array II](BinarySearch/81/src/src_test.go)
     * [153 Find Minimum in Rotated Sorted Array](BinarySearch/153/src/src_test.go)
     * [154 Find Minimum in Rotated Sorted Array II](BinarySearch/154/src/src_test.go)
+    * [162 Find Peak Element](BinarySearch/162/src/src_test.go)
     * [704 Binary Search](BinarySearch/704_Binary_Search/src/src_test.go)
     * [852 Peak Index in a Mountain Array](BinarySearch/852/src/src_test.go)
