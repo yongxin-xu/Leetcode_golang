@@ -28,3 +28,4 @@ Some golang implementations of Leetcode problems.
     * [162 Find Peak Element](BinarySearch/162/src/src_test.go)
     * [704 Binary Search](BinarySearch/704_Binary_Search/src/src_test.go)
     * [852 Peak Index in a Mountain Array](BinarySearch/852/src/src_test.go)
+    * [875 Koko Eating Bananas](BinarySearch/875/src/src_test.go)
