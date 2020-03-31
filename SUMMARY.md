@@ -10,6 +10,7 @@
     * [153. Find Minimum in Rotated Sorted Array](BinarySearch/153/src/src_test.go)
     * [154. Find Minimum in Rotated Sorted Array II](BinarySearch/154/src/src_test.go)
     * [162. Find Peak Element](BinarySearch/162/src/src_test.go)
+    * [167. Two Sum II - Input array is sorted](BinarySearch/167/src/src_test.go)
     * [378. Kth Smallest Element in a Sorted Matrix](BinarySearch/378/src/src_test.go)
     * [668. Kth Smallest Number in Multiplication Table](BinarySearch/668/src/src_test.go)
     * [704. Binary Search](BinarySearch/704_Binary_Search/src/src_test.go)
