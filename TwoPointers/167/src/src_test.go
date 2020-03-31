@@ -7,21 +7,15 @@ func twoSum(numbers []int, target int) []int {
 		return []int{-1, -1}
 	}
 
-	for i := 0; i < len(numbers); i++ {
-		second := target - numbers[i]
-
-		low := i + 1
-		high := len(numbers) - 1
-
-		for low <= high {
-			mid := low + ((high - low) >> 1)
-			if second < numbers[mid] {
-				high = mid - 1
-			} else if second > numbers[mid] {
-				low = mid + 1
-			} else {
-				return []int{i + 1, mid + 1}
-			}
+	idx1 := 0
+	idx2 := len(numbers) - 1
+	for idx1 < idx2 {
+		if numbers[idx1]+numbers[idx2] == target {
+			return []int{idx1 + 1, idx2 + 1}
+		} else if numbers[idx1]+numbers[idx2] > target {
+			idx2--
+		} else {
+			idx1++
 		}
 	}
 
