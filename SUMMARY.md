@@ -32,3 +32,4 @@
     * [784. Letter Case Permutation](Permutations/784_Letter_Case_Permutation/src/src_test.go)
 * [Two Pointers](TwoPointers/README.txt)
     * [11. Container With Most Water](TwoPointers/11/src/src_test.go)
+    * [167. Two Sum II - Input array is sorted](TwoPointers/167/src/src_test.go)
