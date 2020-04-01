@@ -39,3 +39,4 @@ Some golang implementations of Leetcode problems.
 * [Two Pointers](TwoPointers/README.txt)
     * [11. Container With Most Water](TwoPointers/11/src/src_test.go)
     * [167. Two Sum II - Input array is sorted](TwoPointers/167/src/src_test.go)
+    * [977. Squares of a Sorted Array](TwoPointers/977/src/src_test.go)
