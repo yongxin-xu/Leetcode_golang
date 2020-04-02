@@ -27,6 +27,8 @@
     * [216. Combination Sum III](Combinations/216_Combination_Sum_III/src/src_test.go)
 * [DataStructures](DataStructures/README.txt)
     * [Min Stack](DataStructures/MinStack/minstack/minstack_test.go)
+* [Miscellaneous](Miscellaneous/README.txt)
+    * [202. Happy Number](Miscellaneous/202/src/src_test.go)
 * [Permutations](Permutations/README.md)
     * [46. Permutations](Permutations/46_Permutations/src/src_test.go)
     * [47. Permutations II](Permutations/47_Permutations_II/src/src_test.go)
