@@ -32,6 +32,8 @@ Some golang implementations of Leetcode problems.
     * [216. Combination Sum III](Combinations/216_Combination_Sum_III/src/src_test.go)
 * [DataStructures](DataStructures/README.txt)
     * [Min Stack](DataStructures/MinStack/minstack/minstack_test.go)
+* [Dynamic Programming](DynamicProgramming/README.txt)
+    * [53. Maximum Subarray](DynamicProgramming/53/src/src_test.go)
 * [Miscellaneous](Miscellaneous/README.txt)
     * [202. Happy Number](Miscellaneous/202/src/src_test.go)
 * [Permutations](Permutations/README.md)
