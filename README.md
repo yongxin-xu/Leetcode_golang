@@ -39,6 +39,7 @@ Some golang implementations of Leetcode problems.
     * [47. Permutations II](Permutations/47_Permutations_II/src/src_test.go)
     * [784. Letter Case Permutation](Permutations/784_Letter_Case_Permutation/src/src_test.go)
 * [Trees](Leetcode/Trees/README.txt)
+    * [94. Binary Tree Inorder Traversal](Trees/94/src/src_test.go)
     * [129. Sum Root to Leaf Numbers](Trees/129/src/src_test.go)
 * [Two Pointers](TwoPointers/README.txt)
     * [11. Container With Most Water](TwoPointers/11/src/src_test.go)
