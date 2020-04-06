@@ -30,6 +30,7 @@
 * [Dynamic Programming](DynamicProgramming/README.txt)
     * [53. Maximum Subarray](DynamicProgramming/53/src/src_test.go)
 * [Miscellaneous](Miscellaneous/README.txt)
+    * [49. Group Anagrams](Miscellaneous/49/src/src_test.go)
     * [121. Best Time to Buy and Sell Stock](Miscellaneous/121/src/src_test.go)
     * [122. Best Time to Buy and Sell Stock II](Miscellaneous/122/src/src_test.go)
     * [202. Happy Number](Miscellaneous/202/src/src_test.go)
