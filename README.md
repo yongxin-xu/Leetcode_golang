@@ -26,6 +26,7 @@ Some golang implementations of Leetcode problems.
     * [98. Validate Binary Search Tree](BST/98/src/src_test.go)
     * [530. Minimum Absolute Difference in BST](BST/530/src/src_test.go)
     * [700. Search in a Binary Search Tree](BST/700/src/src_test.go)
+    * [701. Insert into a Binary Search Tree](BST/701/src/src_test.go)
 * [Combinations](Combinations/README.md)
     * [17. Letter of Combinations of a Phone Number](Combinations/17_Letter_Combinations_of_a_Phone_Number/src/src_test.go)
     * [39. Combination Sum](Combinations/39_Combination_Sumr/src/src_test.go)
