@@ -19,6 +19,7 @@
     * [1011. Capacity To Ship Packages Within D Days](BinarySearch/1011/src/src_test.go)
 * [Binary Search Tree](BST/README.txt)
     * [98. Validate Binary Search Tree](BST/98/src/src_test.go)
+    * [530. Minimum Absolute Difference in BST](BST/530/src/src_test.go)
 * [Combinations](Combinations/README.md)
     * [17. Letter of Combinations of a Phone Number](Combinations/17_Letter_Combinations_of_a_Phone_Number/src/src_test.go)
     * [39. Combination Sum](Combinations/39_Combination_Sumr/src/src_test.go)
