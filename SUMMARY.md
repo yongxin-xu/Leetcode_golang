@@ -19,6 +19,7 @@
     * [1011. Capacity To Ship Packages Within D Days](BinarySearch/1011/src/src_test.go)
 * [Binary Search Tree](BST/README.txt)
     * [98. Validate Binary Search Tree](BST/98/src/src_test.go)
+    * [99. Recover Binary Search Tree](BST/99/src/src_test.go)
     * [230. Kth Smallest Element in a BST](BST/230/src/src_test.go)
     * [530. Minimum Absolute Difference in BST](BST/530/src/src_test.go)
     * [700. Search in a Binary Search Tree](BST/700/src/src_test.go)
